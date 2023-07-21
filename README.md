@@ -7,4 +7,4 @@
 3) github_Face_recognition_and_SVM_classification.ipynb contains the Python code implementing the objectives
 
 ## how to execute
-You can run the code shells of the .ipynb file and see the logic and the results of the implementation.
+.zip data file is to be uploaded to your Google Drive following the path customization of the given code. Then, you can run the code shells of the .ipynb file and see the logic and the results of the implementation.
